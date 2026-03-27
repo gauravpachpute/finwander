@@ -30,6 +30,19 @@
   --nav-h:       72px;
   --ease:        cubic-bezier(0.4,0,0.2,1);
   --transition:  0.3s var(--ease);
+  /* ── Extended palette ── */
+  --rose:        #be185d;
+  --rose-dark:   #9d174d;
+  --rose-light:  #fce7f3;
+  --navy:        #0f1e3d;
+  --navy-light:  #1e3a5f;
+  --sage:        #4a7c59;
+  --sage-dark:   #365c42;
+  --sage-light:  #d1fae5;
+  --amber:       #d97706;
+  --amber-dark:  #b45309;
+  --coral:       #f97316;
+  --coral-light: #ffedd5;
 }
 
 /* ── Dark Theme ── */
@@ -44,6 +57,9 @@
   --shadow-sm:   0 2px 10px rgba(0,0,0,0.3);
   --shadow-md:   0 8px 32px rgba(0,0,0,0.4);
   --shadow-lg:   0 24px 64px rgba(0,0,0,0.5);
+  --rose-light:  rgba(190,24,93,0.15);
+  --sage-light:  rgba(74,124,89,0.15);
+  --coral-light: rgba(249,115,22,0.15);
 }
 
 html { scroll-behavior: smooth; }
