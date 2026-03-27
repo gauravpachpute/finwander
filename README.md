@@ -1,10 +1,10 @@
-# 🌍 Travel & Tourism Web Application
+#  Travel & Tourism Web Application
 
 An interactive and user-friendly travel website that helps users explore destinations, plan trips, and get personalized travel recommendations. The platform combines modern UI design with practical features like budget planning, weather insights, and interactive maps to enhance the travel planning experience.
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project is designed to simplify trip planning while making it engaging and visually appealing. Users can discover new destinations, estimate travel expenses, and receive recommendations based on their preferences.
 
@@ -15,44 +15,44 @@ The focus of this website is on:
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🌍 **Destination Explorer**  
+-  **Destination Explorer**  
   Browse and explore different travel destinations with detailed information.
 
-- 🔎 **Smart Search & Filters**  
+-  **Smart Search & Filters**  
   Search destinations based on budget, location, and preferences.
 
-- 🗺️ **Interactive Map Integration**  
+-  **Interactive Map Integration**  
   View destinations on a map for better visualization.
 
-- 💰 **Trip Budget Planner**  
+-  **Trip Budget Planner**  
   Estimate expenses including travel, accommodation, and activities.
 
-- ⭐ **User Reviews & Ratings**  
+-  **User Reviews & Ratings**  
   Read and share travel experiences.
 
-- 🧠 **Travel Recommendation Quiz**  
+-  **Travel Recommendation Quiz**  
   Get personalized destination suggestions.
 
-- ☀️ **Weather Integration**  
+-  **Weather Integration**  
   Check real-time weather conditions and best time to visit.
 
-- 🌙 **Dark Mode Toggle**  
+-  **Dark Mode Toggle**  
   Switch between light and dark themes.
 
-- 📱 **Responsive Design**  
+-  **Responsive Design**  
   Works seamlessly on mobile, tablet, and desktop devices.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The goal of this project is to build a comprehensive travel planning platform that helps users make informed decisions while providing an engaging browsing experience.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML
 - CSS
@@ -63,13 +63,13 @@ The goal of this project is to build a comprehensive travel planning platform th
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 _Add screenshots of your website here_
 
 ---
 
-## 💡 Future Enhancements
+##  Future Enhancements
 
 - AI-based travel itinerary generator  
 - Booking system integration  
