@@ -48,7 +48,7 @@ The focus of this website is on:
 
 ##  Objective
 
-The goal of this project is to build a comprehensive travel planning platform that helps users make informed decisions while providing an engaging browsing experience.
+The goal of this project is to build a comprehensive travel planning platform that helps users make informed decisions while providing an engaging browsing experience.By integrating real-time weather data, interactive mapping, and a personalized recommendation engine, this platform aims to bridge the gap between "dreaming about a trip" and "booking one." We strive to provide a seamless, end-to-end interface where users can discover, calculate, and visualize their next adventure in a single, cohesive environment.
 
 ---
 
