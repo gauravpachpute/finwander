@@ -21,7 +21,7 @@ The focus of this website is on:
   Browse and explore different travel destinations with detailed information.
 
 -  **Smart Search & Filters**  
-  Search destinations based on budget, location, and preferences.
+  Search destinations based on budget, location, and mood.
 
 -  **Interactive Map Integration**  
   View destinations on a map for better visualization.
